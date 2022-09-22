@@ -1,7 +1,7 @@
 ### ALGNet
 Es un software que evalua los índices de los precios a los productores en el país de honduras en el área de la agricultura, ganado y leche total; para asi obtener la mayor ganancia.
 ## Integrantes
-1.- Gustavo  Flores 24128
+1.- Gustavo  Flores 24128  
 2.- Omar Flores 24003
 ## Problema
 Hoy en día los precios de los productos para los productores de todas las áreas varían mucho según de su oficio y a lo que se dediquen. Los precios varían por años y los productores de hoy en día no saben como pueden estar los productos en el futuro, con un precio alto o bajo. Una de las áreas que esto afecta mucho es en la agricultura y en los factores del ganado y la leche. Teniendo en consideración todo esto nuestro proyecto será evaluar los índices de los precios a los productores en el país de honduras en el área de la agricultura, ganado y leche total, ya que en Honduras hay una gran inversión en esto de parte de productores pequeños que esperan que el precio llegue a un punto bajo para poder comprar y sacar una gran ganancia. Nosotros teniendo todo esto en cuenta vamos a usar la base de dato de índice de precio del productor desde el año 1991 a 2021 teniendo como factores la agricultura, ganado y leche total para poder hallar el punto más bajo del precio en los próximos años para así poder ayudar a los productores pequeños o no de tantos recursos.    
